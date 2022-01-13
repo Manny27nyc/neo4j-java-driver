@@ -44,7 +44,7 @@
     <bouncycastle-jdk15on.version>1.69</bouncycastle-jdk15on.version>
     <logback-classic.version>1.2.5</logback-classic.version>
     <jackson.version>2.12.4</jackson.version>
-    <lombok.version>1.18.20</lombok.version>
+    <lombok.version>1.18.22</lombok.version>
     <svm.version>20.3.3</svm.version>
   </properties>
 

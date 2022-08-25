@@ -1,4 +1,4 @@
-FROM python:3.10.0b4-buster
+FROM python:3.11.0rc1-buster
 
 RUN apt-get update && apt-get install -y \
       apt-transport-https \
